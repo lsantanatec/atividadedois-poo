@@ -37,7 +37,7 @@ public class JurosSimples extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title> Juros Simples</title>");            
+            out.println("<title> Cálculo Juros Simples</title>");            
             out.println("</head>");
             out.println("<body>");
              
