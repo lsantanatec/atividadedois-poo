@@ -92,7 +92,7 @@ out.println("<html>");
                             
                          	out.println("<div class='col-sm-4 col-md-3'>");
                                   out.println("<div class='thumbnail' style='background:  # CCC'>");
-                                     out.println("<img src='src/images/download.jpg'  alt='...' class='img-circle' width='242' height='200'>");  
+                                     out.println("<img src='https://avatars0.githubusercontent.com/u/36893055?s=460&v=4'  alt='...' class='img-circle' width='242' height='200'>");  
                                           out.println("<div class='caption'>");
                                             out.println("<h3 style='color: #006666' align='center'>Lucas Santana</h3>");
                                                   out.println("<p align='center'><b>Github: </b><a href='https://github.com/lsantanatec' target='_blank'>@lsantanatec</p></a>");
